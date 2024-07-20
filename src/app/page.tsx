@@ -292,7 +292,7 @@ export default function Home() {
     "the maestros of restoring this fallen society",
     "the ones who will show us what it truly means to be sane",
     "the sages of satire (but not really)",
-    "the ones who will rightly make us question our believes",
+    "the ones who will rightly make us question our beliefs",
     "the prophets of provocativity",
     "the real MVPs",
     "keeping it real in a world full of fake outrage",
