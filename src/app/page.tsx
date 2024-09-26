@@ -430,7 +430,7 @@ export default function Home() {
           }
         />
 
-        <div className="flex flex-col gap-4">
+        <div className="flex flex-col gap-4 ">
           {content ? (
             <Link
               href={`https://twitter.com/intent/tweet?text=${content}%0A%0Athis bait was brought to you by: Twitter Ragebait Generator`}
